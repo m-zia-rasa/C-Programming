@@ -1,0 +1,12 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.out
+*.ilk
+*.pdb
+
+# Lesson-generated demo files (safe to regenerate)
+lesson*.txt
+lesson*.bin
+syscall_demo.txt

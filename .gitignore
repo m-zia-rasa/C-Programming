@@ -1,0 +1,24 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+
+# Local audit/build folders
+.audit-build/
+.link-audit/
+.smoke-build/
+.build-projects/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
