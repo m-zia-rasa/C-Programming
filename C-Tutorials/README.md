@@ -2,6 +2,8 @@
 
 Complete hands-on syllabus: **18 modules**, **124 lesson programs** (`.c`), plus helper headers/sources in Module 13.
 
+Each canonical module directory contains a documented, runnable c files example.
+
 ## How to use
 
 1. Open a module folder in order (01 → 18).
